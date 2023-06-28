@@ -1,15 +1,10 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "SMARTbayesR"]
 	path = SMARTbayesR
 	url = https://github.com/cran/SMARTbayesR
-	shallow = true
-	registered = true
 [submodule "smartsizer"]
 	path = smartsizer
 	url = https://github.com/cran/smartsizer
-	shallow = true
-	registered = true
